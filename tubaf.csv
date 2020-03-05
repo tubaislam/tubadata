@@ -1,0 +1,39 @@
+PlayerName,Date,MatchType(OneDay-T20-Test),OppositionTeam,TossWin,BowlingFirst,BattingFirst,hometeam,LastMatchesPerformance,Last3MatchesPerformance,Last6MatchesPerformance,weather,pitch,Form(InOrOut),Order(BattingBowlingOrder),Performance(IT is label. For Batsman:Runs. For Bowler: Wickets)
+Colin Munro,21/12/2012 ,t20,south africa,new zealand,new zealand,south africa,south africa,didn't play,didn’t play,didn't play,sunny,dead,IN,4 down,23
+Colin Munro,23/12/2012,t20,south africa,new zealand,south africa,new zealand,south africa,best,didn’t play,didn't play,rainy,dusty,OUT,3 down,8
+Colin Munro, 26/12/2012,t20,south africa,south africa,south africa,new zealand,south africa,worst,didn’t play,didn't play,rainy,green,OUT,3 down,3
+Colin Munro, 09/02/2013,t20,england,new zealand,england,new zealand,new zealand,worst,BEST,didn't play,rainy,dead,IN,4 down,28
+Colin Munro,12/2/2013,t20,england,england,new zealand,england,new zealand,best,BEST,didn't play,rainy,dead,OUT,4 down,7
+Colin Munro,15/02/2013 ,t20,england,england,new zealand,england,new zealand,worst,BEST,didn't play,rainy,dead,OUT,5 down,1
+Colin Munro, 25/06/2013,t20,england,new zealand,match stoped due to rain,england,england,worst,BEST,best,rainy,dusty,IN,nill,nill
+Colin Munro,6/11/2013,t20,bangladesh, New Zealand,new zealand,Bangladesh,Bangladesh,best,BEST,avg,rainy,dusty,IN,4 down,73
+Colin Munro,21/11/2013,t20,sri lanka,sri lanka,new zealand,sri lanka,sri lanka,best,BEST,best,rainy,green,OUT,4 down,17
+Colin Munro,7/1/2016,t20,sri lanka,sri lanka,new zealand,sri lanka,new zealand,avg,BEST,best,rainy,green,IN,2 down,36
+Colin Munro,10/1/2016,t20,sri lanka,new zealand,sri lanka,new zealand,new zealand,best,BEST,best,sunny,green,IN,2 down,50
+Colin Munro,15/01/2016,t20,pakistan,new zealand,pakistan,new zealand,new zealand,best,BEST,best,sunny,green,IN,2 down,56
+Colin Munro,22/01/2016 ,t20,pakistan,pakistan,new zealand,pakistan,new zealand,best,BEST,best,sunny,green,OUT,2 down,4
+Colin Munro,15/03/2016,t20,india,new zealand,new zealand,india,india,worst,BEST,best,rainy,green,OUT,2 down,7
+Colin Munro,18/03/2016,t20,australia,new zealand,new zealand,australia,india,worst,BEST,best,sunny,dead,IN,2 down,23
+Colin Munro,22/03/2016,t20,pakistan,new zealand,new zealand,pakistan,none,best,BEST,best,sunny,dusty,OUT,2 down,7
+Colin Munro, 26/03/2016,t20,bangladesh,new zealand,new zealand,Bangladesh,none,worst,BEST,avg,sunny,dusty,IN,2 down,35
+Colin Munro, 30/03/2016 ,t20,england,england,new zealand,england,none,best,BEST,best,sunny,dusty,IN,2 down,36
+Colin Munro,1/1/2018,t20,west indies,west indies,match stoped due to rain,new zealand,new zealand,best,BEST,best,sunny,dead,IN,2 down,66
+Colin Munro,3/1/2018,t20,west indies,new zealand,new zealand,west indies,new zealand,best,BEST,best,rainy,dead,IN,1 down,104
+Colin Munro,22/01/2018,t20,pakistan,new zealand,pakistan,new zealand,new zealand,best,BEST,best,rainy,dusty,IN,1 down,49
+Colin Munro,25/01/2018,t20,pakistan,pakistan,pakistan,new zealand,new zealand,best,BEST,best,rainy,dusty,OUT,1 down,1
+Colin Munro,3/2/2018,t20,australia,australia,new zealand,australia,australia,worst,BEST,best,rainy,dusty,OUT,1 down,1
+Colin Munro,13/02/2018 ,t20,england,australia,new zealand,australia,new zealand,worst,BEST,avg,rainy,dead,OUT,1 down,11
+Colin Munro, 16/02/2018 ,t20,australia,new zealand,new zealand,australia,new zealand,avg,BEST,best,rainy,dead,IN,1 down,76
+Colin Munro,18/02/2018,t20,england,new zealand,england,new zealand,new zealand,best,BEST,avg,sunny,dead,IN,1 down,57
+Colin Munro, 21/02/2018,t20,australia,new zealand,new zealand,australia,new zealand,best,BEST,best,sunny,dead,IN,1 down,29
+Colin Munro, 31/10/2018,t20,pakistan,pakistan,pakistan,new zealand,none,best,BEST,best,sunny,dead,IN,opener,58
+Colin Munro,2/11/2018,t20,pakistan,new zealand,new zealand,pakistan,none,best,BEST,best,rainy,dead,IN,opener,44
+Colin Munro,4/11/2018,t20,pakistan,pakistan,pakistan,new zealand,none,best,BEST,best,rainy,green,OUT,1 down,2
+Colin Munro,11/1/2019,t20,sri lanka,sri lanka,new zealand,sri lanka,new zealand,worst,BEST,best,rainy,green,OUT,1 down,16
+Colin Munro,6/2/2019,t20,india,india,new zealand,india,new zealand,avg,BEST,best,sunny,green,IN,1 down,34
+Colin Munro,8/2/2019,t20,india,new zealand,new zealand,india,new zealand,best,BEST,best,sunny,green,OUT,1 down,12
+Colin Munro,10/2/2019,t20,india,india,new zealand,india,new zealand,avg,BEST,best,sunny,green,IN,1 down,72
+Colin Munro,1/9/2019,t20,sri lanka,sri lanka,sri lanka,new zealand,sri lanka,best,BEST,best,rainy,green,OUT,1 down,0
+Colin Munro,3/9/2019,t20,sri lanka,sri lanka,sri lanka,new zealand,sri lanka,worst,BEST,best,rainy,green,OUT,opener,13
+Colin Munro,6/9/2019,t20,sri lanka,sri lanka,sri lanka,new zealand,sri lanka,best,BEST,best,rainy,green,IN,opener,12
+Colin Munro,1/11/2019,t20,england,england,new zealand,england,new zealand,best,BEST,best,sunny,green,0ut,1 down,21
